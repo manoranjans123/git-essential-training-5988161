@@ -1,3 +1,3 @@
 this is the sample git example file
 
-changes done
+changes done newly
